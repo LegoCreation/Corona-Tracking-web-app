@@ -1,0 +1,10 @@
+*.un~
+*.swp
+
+*.zip
+
+
+*.log
+*.aux
+
+.DS_Store
