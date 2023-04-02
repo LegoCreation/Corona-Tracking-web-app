@@ -143,18 +143,6 @@ $ python3 tests/test.py
 
 ✅   Debugged almost 40 percent of code to make it modular and bug free.
 
-✅   Created documentation generation infrastructure using Flask-Selfdoc.
-
-✅   Created sql table query for a single instructor to be in control of multiple games.
-
-✅   Added player registration functionality.
-
-✅   Added player login functionality.
-
-✅   Added tests for login and register.
-
-✅   Create game by admin functionality implemented. After game creation, displays list of all players' usernames, passwords and roles.
-
 ## Acknowledgments
 
 * Special thanks to Mr. Mahiem Agrawal for guiding through the task.
